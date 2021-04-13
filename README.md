@@ -1,2 +1,2 @@
-# Online-Electronic-Shop
-In this project we will create online electronic shop online.
+# Electronic Gadgets
+In this project we will create online shop with electronic gadgets.
